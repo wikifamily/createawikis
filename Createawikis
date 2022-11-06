@@ -1,0 +1,8 @@
+  
+     <html><body>       <h1> Create a wiki</h1>
+              <form method="POST">
+       <script src="https://www.google.com/recaptcha/api.js"></script><div class="g-recaptcha" data-sitekey="6LfUuQIAAAAAAMMB48xErxdptBRDHnbp822acUsU"></div>
+       <p>Wiki Name <input type="text" name="wiki_name" value=""></p>
+       <p><input type="submit" value="Create Wiki"></p>
+       </form>
+       </body></html>
